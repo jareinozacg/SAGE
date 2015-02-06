@@ -14,6 +14,7 @@ from estacionamientos.forms import EstacionamientoReserva
 from estacionamientos.models import Estacionamiento, ReservasModel
 
 prueba = 1
+Prueba = 2
 
 listaReserva = []
 
