@@ -17,6 +17,7 @@ master = 1
 prueba1 = 1
 prueba1 = 2
 prueba1 = 3
+prueba1 = 5
 
 # Usamos esta vista para procesar todos los estacionamientos
 def estacionamientos_all(request):
