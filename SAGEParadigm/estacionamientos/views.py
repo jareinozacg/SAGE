@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+
+#PRUEBA DEL FORWARD
+
+
 from django.core.exceptions import ObjectDoesNotExist
 from django.shortcuts import render
 
@@ -9,6 +13,7 @@ from estacionamientos.forms import EstacionamientoForm
 from estacionamientos.forms import EstacionamientoReserva
 from estacionamientos.models import Estacionamiento, ReservasModel
 
+prueba = 1
 
 listaReserva = []
 
