@@ -16,11 +16,6 @@ master = 1
 
 prueba1 = 1
 prueba1 = 2
-<<<<<<< HEAD
-prueba1 = 4
-=======
-prueba1 = 3
->>>>>>> refs/heads/Prueba1=3
 prueba1 = 5
 
 # Usamos esta vista para procesar todos los estacionamientos
