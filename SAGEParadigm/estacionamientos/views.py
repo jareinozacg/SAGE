@@ -10,17 +10,6 @@ from estacionamientos.forms import EstacionamientoReserva
 from estacionamientos.models import Estacionamiento, ReservasModel
 
 
-listaReserva = []
-
-master = 1
-
-prueba1 = 1
-prueba1 = 2
-prueba1 = 5
-otraPrueba = 1
-otraPrueba = 2
-ultima = 3
-ultima = 4
 
 # Usamos esta vista para procesar todos los estacionamientos
 def estacionamientos_all(request):
