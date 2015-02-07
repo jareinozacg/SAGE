@@ -3,6 +3,8 @@
 from django.core.exceptions import ObjectDoesNotExist
 from django.shortcuts import render
 
+otroIntento = 1
+
 from estacionamientos.controller import *
 from estacionamientos.forms import EstacionamientoExtendedForm
 from estacionamientos.forms import EstacionamientoForm
