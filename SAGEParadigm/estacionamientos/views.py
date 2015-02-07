@@ -19,7 +19,7 @@ prueba1 = 2
 prueba1 = 5
 otraPrueba = 1
 otraPrueba = 2
-
+ultima = 1
 # Usamos esta vista para procesar todos los estacionamientos
 def estacionamientos_all(request):
     global listaReserva
